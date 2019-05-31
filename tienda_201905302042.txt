@@ -1,0 +1,6 @@
+﻿INSERT INTO tienda (id,nombre,direccion) VALUES (
+1,'Rhyzio','80 Kropf Park');
+INSERT INTO tienda (id,nombre,direccion) VALUES (
+2,'Demizz','4179 Springview Lane');
+INSERT INTO tienda (id,nombre,direccion) VALUES (
+3,'Skiptube','47 Northwestern Way');

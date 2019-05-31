@@ -1,0 +1,100 @@
+﻿INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+1,177923,'Ainslie',86);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+2,178539,'Franny',68);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+3,364002,'Nertie',37);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+4,780786,'Shara',25);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+5,748786,'Maryjo',69);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+6,471411,'Roi',100);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+7,192150,'Nessa',30);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+8,960849,'Connie',56);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+9,613968,'Vinni',13);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+10,936476,'Bidget',70);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+11,916381,'Jimmy',51);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+12,581353,'Janelle',98);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+13,624964,'Ileane',98);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+14,719224,'Germain',77);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+15,494547,'Isabeau',48);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+16,194779,'Rozella',59);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+17,748990,'Wash',61);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+18,192273,'Glynnis',38);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+19,115809,'Abbey',92);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+20,439420,'Caz',48);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+21,918061,'Johny',24);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+22,143614,'Walsh',22);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+23,672997,'Phaedra',26);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+24,972202,'Mireille',93);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+25,481214,'Verena',33);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+26,168089,'Mack',51);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+27,152043,'Georgianne',40);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+28,854254,'Archaimbaud',78);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+29,949933,'Weston',47);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+30,714985,'Mozelle',77);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+31,711597,'Elia',36);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+32,791681,'Babbie',96);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+33,418291,'Gerik',27);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+34,865756,'Donnie',40);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+35,261101,'Torrey',17);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+36,816483,'Peggy',52);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+37,664498,'Grazia',18);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+38,371965,'Mariska',89);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+39,312472,'Mauricio',50);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+40,546051,'Amalia',29);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+41,377121,'Dionysus',81);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+42,715102,'Dee',91);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+43,997333,'Christoper',77);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+44,365010,'Arlina',27);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+45,544443,'Malena',83);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+46,428073,'Timmy',71);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+47,660004,'Bartie',95);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+48,165416,'Garnette',90);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+49,909462,'Althea',86);
+INSERT INTO cliente (id,nit,nombre,credito) VALUES (
+50,766114,'Eliot',65);
